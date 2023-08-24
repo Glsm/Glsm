@@ -2,9 +2,7 @@
 
 
 I am a Data Scientist with a strong background in Computer Science and experience in research. 
-
 I'm extremely passionate about all kinds of data, and I'm also passionate about learning and discovering new endeavors.
-
 I’m currently working on recommondation systems..
 
 <!--
