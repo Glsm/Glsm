@@ -1,9 +1,11 @@
 ### Hi there 👋
 
+I'm a Data Analyst with a background in Computer Science, working with SQL, Python, Power BI and data modeling.
 
-I am a Data Specialist with a strong background in Computer Science and experience in research. 
-I'm extremely passionate about all kinds of data, and I'm also passionate about learning and discovering new endeavors.
-I’m currently working on recommondation systems..
+I’m particularly interested in building reliable and well-structured data workflows, with a focus on data quality, transformation, documentation and reporting.
+
+My current focus is on strengthening my skills in dbt, Microsoft Fabric and Analytics Engineering while continuing to work on practical data projects.
+
 
 <!--
 **Glsm/Glsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
