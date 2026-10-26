@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Data Analyst with a background in Computer Science, working with SQL, Python, Power BI and data modeling.
+I'm a Data Specialist with a background in Computer Science, working with SQL, Python, Power BI and data modeling.
 
 I’m particularly interested in building reliable and well-structured data workflows, with a focus on data quality, transformation, documentation and reporting.
 
